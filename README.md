@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @koushikkaran #Newbie
-- 👀 I’m interested in ...cybersecurity and bug hunting
-- 🌱 I’m currently learning ...new technologies 
-- 📫 How to reach me ...@koushikkaran007@gmail.com
+- 👋 Hi, there
 
 <!---
 koushikkaran/koushikkaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
