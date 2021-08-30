@@ -9,7 +9,7 @@ host = socket.gethostname()
 port = 443 # is my port number which data will be share via this port
 #binding into socket
 
-serversocket.blind((host,port))
+serversocket.blind((host,port))#replace host with your IP addr
 
 #listener for Tcp client
 
